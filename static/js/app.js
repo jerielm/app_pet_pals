@@ -8,13 +8,13 @@ function buildPlot() {
     const data = response;
 
     const layout = {
-      scope: "usa",
+      scope: "san diego",
       title: "Pet Pals",
       showlegend: false,
-      height: 600,
+      height: 400,
             // width: 980,
       geo: {
-        scope: "usa",
+        scope: "San Diego",
         projection: {
           type: "albers usa"
         },
