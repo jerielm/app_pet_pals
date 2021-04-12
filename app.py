@@ -67,7 +67,7 @@ def pals():
         "marker": {
             "size": 50,
             "line": {
-                "color": "rgb(8,8,8)",
+                "color": "red",
                 "width": 1
             },
         }
