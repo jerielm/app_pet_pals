@@ -19,11 +19,11 @@ function buildPlot() {
           type: "albers usa"
         },
         showland: true,
-        landcolor: "rgb(1, 1, 217)",
+        landcolor: "blue",
         subunitwidth: 1,
         countrywidth: 1,
-        subunitcolor: "rgb(255,255,255)",
-        countrycolor: "rgb(255,255,255)"
+        subunitcolor: "red",
+        countrycolor: "green"
       }
     };
 
