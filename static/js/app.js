@@ -11,8 +11,8 @@ function buildPlot() {
       scope: "san diego",
       title: "Pet Pals",
       showlegend: false,
-      height: 400,
-            // width: 980,
+      height: 900,
+             width: 1380,
       geo: {
         scope: "San Diego",
         projection: {
