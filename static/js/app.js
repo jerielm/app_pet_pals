@@ -11,15 +11,15 @@ function buildPlot() {
       scope: "san diego",
       title: "Pet Pals",
       showlegend: false,
-      height: 900,
-             width: 1380,
+      height: 3000,
+             width: 2380,
       geo: {
         scope: "San Diego",
         projection: {
           type: "albers usa"
         },
         showland: true,
-        landcolor: "rgb(217, 217, 217)",
+        landcolor: "rgb(1, 1, 217)",
         subunitwidth: 1,
         countrywidth: 1,
         subunitcolor: "rgb(255,255,255)",
